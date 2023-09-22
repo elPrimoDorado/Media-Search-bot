@@ -7,7 +7,7 @@ logging.getLogger().setLevel(logging.WARNING)
 
 import asyncio
 from pyrogram import Client
-from info import SESSION, USERBOT_STRING_SESSION, API_ID, API_HASH, BOT_TOKEN, CHANNELS
+from info import SESSION, API_ID, API_HASH, BOT_TOKEN, CHANNELS
 from utils import save_file
 
 
