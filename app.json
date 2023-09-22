@@ -19,11 +19,6 @@
             "description": "Your bot token.",
             "value": ""
         },
-        "USERBOT_STRING_SESSION": {
-            "description": "User bot string session.",
-            "value": "",
-            "required": false
-        },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
             "value": ""
